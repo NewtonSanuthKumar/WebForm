@@ -12,4 +12,4 @@
 5. Security layers are multiple
 6. Fast development time
 ### Code Release:
-Wrote JsonpowerDB code in Netbeans and uploaded it on Github dated 16/07/2022.
+Wrote JsonpowerDB code in Netbeans and uploaded it here dated 16/07/2022.
